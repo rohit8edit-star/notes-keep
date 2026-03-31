@@ -11,7 +11,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.notes_keep"
-        minSdk 21
+        minSdkVersion flutter.minSdkVersion
         targetSdk 34
         versionCode 1
         versionName "1.0.0"
