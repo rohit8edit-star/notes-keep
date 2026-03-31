@@ -27,7 +27,6 @@ flutter:
   assets:
     - assets/logo.svg
 
-dependency_overrides:
 
 dependency_overrides:
   quill_native_bridge_windows: 0.0.2
